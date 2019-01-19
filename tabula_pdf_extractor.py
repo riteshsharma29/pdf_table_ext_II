@@ -11,7 +11,7 @@ import xlsxwriter
 import tabula
 
 '''
-Extraction example for PDF tables shown in ca.pdf example
+Extraction example for PDF tables shown in raw.pdf example
 https://pypi.org/project/tabula-py/
 '''
 
